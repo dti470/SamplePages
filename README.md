@@ -1,2 +1,2 @@
 # SamplePages
-git lerm sample page
+git learn sample page
